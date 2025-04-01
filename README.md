@@ -85,3 +85,5 @@ If you encounter any issues or have questions:
 3. Provide as much detail as possible, including version numbers and reproduction steps
 
 ## License
+
+This project is licensed under the Apache 2.0 license. See the [LICENSE](LICENSE) file for details.
